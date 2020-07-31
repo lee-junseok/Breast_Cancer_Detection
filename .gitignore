@@ -2,6 +2,7 @@
 templates/index.html
 templates/my-form.html
 **.txt
+!requirements.txt
 !Breast-cancer-wisconsin.txt
 **Untitled**
 **copy**
