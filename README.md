@@ -1,5 +1,7 @@
 # Breast_Cancer_Detection
+Using Random Forest and LightGBM, built a Breast Cancel Detection model and RESTful API where a user can upload the data and get results.
 
+## Description
 You work for the data team at a local research hospital. You've been tasked with developing a
 means to help doctors diagnose breast cancer. You've been given data about biopsied breast
 cells; where it is benign (not harmful) or malignant (cancerous).
